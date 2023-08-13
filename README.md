@@ -1,8 +1,3 @@
-# React + Vite
+# Stage View in Seat Selection! 🎥🪟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![linkedin-post-1-Cover](https://github.com/ukeskin/selecting-seat/assets/26279663/90cf2926-4a6e-4227-8046-00408c6c672c)
